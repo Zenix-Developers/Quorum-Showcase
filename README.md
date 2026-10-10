@@ -241,7 +241,7 @@ React and Vite on the front, Node.js and Express with Socket.IO for live deliver
 
 <div align="center">
 
-**Quorum** · crafted by [Zenix Developers](https://github.com/Zenix-Developers)
+**Quorum** · crafted by [Zenix Developers](https://github.com/Zenix-Developers) · [zenix.sg](https://zenix.sg)
 
 *The source code is private. Interested in a closer look? Get in touch.*
 
